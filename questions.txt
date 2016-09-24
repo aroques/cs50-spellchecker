@@ -1,0 +1,14 @@
+0.  a lung disease, and the longest word for our dictionary
+1.  returns resource usage measures for self, children, or thread.
+2.  16
+3.  Because C requires passing structs by reference in functions, because by value, the size would be too big, which could cause a stack overflow
+    or slow down the program
+4.  Reads into file one character at a time until EOF. If the character is an alphabetical character or an apostrophe it will append character to word index and increment index.
+    also it will check if index is > length then end loop if it is. Else if it its not a alphabetical char or apostrophe and index greater than 0 it will increment word count
+    add a \0 char and check if mispelled. if it is it will print it.
+5.  we would be able to check for invalid chars.
+6.  Because word LENGTH and DICTIONARY are # declared as constants (word is an array of LENGTH+1)ODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
